@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955325348453",
+    "firebase_url": "https://authbasic-938ea.firebaseio.com",
+    "project_id": "authbasic-938ea",
+    "storage_bucket": "authbasic-938ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955325348453:android:6be4c9976e648168",
+        "android_client_info": {
+          "package_name": "conghaodng.demo.authbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955325348453-pjn97kc1qii7sr8om1432nnc1efot3j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "conghaodng.demo.authbasic",
+            "certificate_hash": "D47D4D4705A34B7A0F05907993E74745F8676804"
+          }
+        },
+        {
+          "client_id": "955325348453-anhjul7icgj5oou2rppa3jl57sbmm559.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZoZ8j4ymD95zLQ-B636qWIHeAK5CDVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955325348453-anhjul7icgj5oou2rppa3jl57sbmm559.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
